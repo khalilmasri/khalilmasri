@@ -25,7 +25,7 @@ print_projects();
 ###### Console
 > ##### Currently working on  :pick: 
 > - [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
-> ##### latest project :building_construction:
+> ##### Latest project :building_construction:
 > - Implementation of [tar](https://github.com/Pbotsaris/my_tar) from UNIX.
 > - Implementation of [ls](https://github.com/khalilmasri/my_ls) from UNIX.
 > - Implementation of [c printf()](https://github.com/khalilmasri/my_printf) from c-language.
