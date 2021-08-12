@@ -10,9 +10,11 @@ printf("My name is: %s.\n", name);
 ```
 My name is: Khalil.
 ```
-## About me
+## About me :raising_hand_man:	
 - 🌱 I’m currently learning c language programming.
 - :man_technologist: Studying software engineering.
+
+## Projects :computer:
 - :pick: Currently working on [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
 - :building_construction: My latest project:
 
@@ -24,6 +26,6 @@ My name is: Khalil.
 
      - [mastermind](https://github.com/khalilmasri/my_mastermind) board game.
 
-## Dotfiles
+## Dotfiles :file_folder:
 - If you are interested you can find my .dotfiles here
    - [.dotfiles](https://github.com/khalilmasri/.dotfiles)
