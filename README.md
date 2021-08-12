@@ -2,11 +2,12 @@
 ###### Code
 ```c
 char name[] = "Khalil";
-printf("My name is: %s.\n", name);
+char smiley[] = ":)";
+printf("My name is %s %s\n", name, smiley);
 ```
 
 ###### Console
-> My name is: Khalil.
+> My name is Khalil :)
 
 ## About me :raising_hand_man:	
 - 🌱 I’m currently learning c language programming.
