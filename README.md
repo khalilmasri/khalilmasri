@@ -6,10 +6,8 @@ printf("My name is: %s.\n", name);
 ```
 
 ###### Console
+> My name is: Khalil.
 
-```
-My name is: Khalil.
-```
 ## About me :raising_hand_man:	
 - 🌱 I’m currently learning c language programming.
 - :man_technologist: Studying software engineering.
@@ -24,5 +22,4 @@ My name is: Khalil.
 - [mastermind](https://github.com/khalilmasri/my_mastermind) board game.
 
 ## Dotfiles :file_folder:
-- If you are interested you can find my .dotfiles here
-   - [.dotfiles](https://github.com/khalilmasri/.dotfiles)
+**If you are interested you can find my [.dotfiles here](https://github.com/khalilmasri/.dotfiles).**
