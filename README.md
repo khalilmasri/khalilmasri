@@ -5,7 +5,8 @@ printf("%s \n", "I'm Khalil and I'm currently living in Greece.");
 
 - 🌱 I’m currently learning c language programming.
 - :man_technologist: Study software engineering.
-- :pick: My latest project:
+- :pick: Currently working on [my_blockchain project](https://github.com/Pbotsaris/my_blockchain)
+- :building_construction: My latest project:
 
      - Implementation of [tar.](https://github.com/Pbotsaris/my_tar)
 
