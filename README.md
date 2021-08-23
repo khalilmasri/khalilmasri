@@ -23,9 +23,10 @@ print_aboutme();
 print_projects();
 ```
 ###### Console
-> ##### Currently working on  :pick: 
-> - [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
+<!--- > ##### Currently working on  :pick: -->
+
 > ##### Latest project :building_construction:
+> - [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
 > - Implementation of [tar](https://github.com/Pbotsaris/my_tar) from UNIX.
 > - Implementation of [ls](https://github.com/khalilmasri/my_ls) from UNIX.
 > - Implementation of [c printf()](https://github.com/khalilmasri/my_printf) from c-language.
