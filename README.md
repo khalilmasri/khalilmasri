@@ -16,11 +16,20 @@ print_dotfiles();
 > - :man_technologist: Studying software engineering.
 > # 
 > #### PROJECTS :briefcase:
-> <!--- > ##### Currently working on  :pick: -->
-> ##### Latest project :building_construction:
-> - [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
+>  ##### Currently working on  :pick: 
+> - Implementation of [malloc](https://github.com/khalilmasri/my_malloc) C-lang.
+> ##### Unix projects :computer:
+> - Implementation of [unix shell](https://github.com/khalilmasri/my_zsh).
 > - Implementation of [tar](https://github.com/Pbotsaris/my_tar) from UNIX.
 > - Implementation of [ls](https://github.com/khalilmasri/my_ls) from UNIX.
+> - Implementation of [basic calculator](https://github.com/khalilmasri/my_bc) from Unix bc.
+> - Implementation of Unix [curl](https://github.com/khalilmasri/my_curl).
+> ##### Algorithem projects :robot:
+>  - Shortest path algorithem in [my_mouse](https://github.com/khalilmasri/my_mouse).
+>  - Find the biggest square [my_bsq](https://github.com/khalilmasri/my_bsq).
+> ##### Other project :building_construction:
+> - [Assembly library](https://github.com/khalilmasri/my_libasm).
+> - [my_blockchain](https://github.com/Pbotsaris/my_blockchain) project.
 > - Implementation of [c printf()](https://github.com/khalilmasri/my_printf) from c-language.
 > - [mastermind](https://github.com/khalilmasri/my_mastermind) board game.
 > #
